@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/
+*.swp
+cscope.*
+tags
+*.swo
+sdkconfig
+sdkconfig.old
+.ccls-cache/
+.vscode/
+.cache/
